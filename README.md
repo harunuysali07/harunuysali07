@@ -33,7 +33,7 @@ Creating games with Unity is my passion. I revel in the joy of bringing immersiv
 
 <!-- Social Media Links -->
 ## 📫 Connect with Me:
-[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
 [![Spotify](https://img.shields.io/badge/Spotify-Follow-green)](https://open.spotify.com/user/11158951827?si=512ac851b85045a7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/harunuysal07350/)
 [![Personal Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://harunuysali07.github.io/)
