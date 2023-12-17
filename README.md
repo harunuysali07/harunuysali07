@@ -27,7 +27,7 @@ Creating games with Unity is my passion. I revel in the joy of bringing immersiv
 
 - 🌍 Based in  Izmir - Turkey.
 - 💼 Working at Level 4 Games - Game Developer.
-- 🚀 Currently working on a project: Metronom project (i'm starting to play ney ).
+<!--- 🚀 Currently working on a project: Metronom project (i'm starting to play ney ). -->
 - 🌱 Currently learning: c# Design Patterns.
 - 👒 Currently wathcing: Chainsaw Man
 
